@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "license",
+    "packageName": "com.license.licenserecordsystem",
+    "packageFolder": "com/license/licenserecordsystem",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useSass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "enableTranslation": true,
+    "rememberMeKey": "283d18298b664c9f2539de1b549d89adf3480e7f"
+  }
+}
